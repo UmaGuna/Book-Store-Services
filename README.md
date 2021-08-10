@@ -1,5 +1,5 @@
 # Book-Store-Services
-      REST APIs for online book store
+REST APIs for online book store
 This is a simple Java Spring Boot/Webflux application to store and get books. It stores and get books of different categories:
 ---
 # Functionality And Approach Taken:
